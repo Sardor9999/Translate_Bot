@@ -1,2 +1,2 @@
-# Translate_Bot
-Tarjimon Bot
+# Translate-Bot
+Aiogram yordamida translate bot
